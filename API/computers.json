@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "name": "Model 5",
+      "company": {
+        "id": 10,
+        "name": "Apple"
+      }
+    },
+    {
+      "id": 1,
+      "name": "Model 2",
+      "company": {
+        "id": 11,
+        "name": "Apple"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Model 6",
+      "company": {
+        "id": 12,
+        "name": "Lenovo"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Model 9",
+      "company": {
+        "id": 13,
+        "name": "Lenovo"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Model 8",
+      "company": {
+        "id": 14,
+        "name": "Toshiba"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Model 4",
+      "company": {
+        "id": 15,
+        "name": "Acer"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Model 2",
+      "company": {
+        "id": 16,
+        "name": "Acer"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Model 4",
+      "company": {
+        "id": 17,
+        "name": "Toshiba"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Model X",
+      "company": {
+        "id": 18,
+        "name": "Lenovo"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Model 3",
+      "company": {
+        "id": 19,
+        "name": "Acer"
+      }
+    }
+  ]
+}
