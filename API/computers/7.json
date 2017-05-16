@@ -1,0 +1,10 @@
+{
+      "id": 7,
+      "name": "Model 4",
+      "imageUrl": "https://raw.githubusercontent.com/glnix/CompDB/master/API/laptop.png",
+      "description": "Adipisicing nostrud eu cupidatat ea esse ad ea excepteur qui consectetur sunt anim. Reprehenderit pariatur sint et sunt dolore voluptate irure. Magna qui deserunt exercitation anim nisi tempor esse. Reprehenderit eu dolore ad sit enim pariatur minim veniam reprehenderit qui et minim. Ea ut sit veniam magna adipisicing dolor pariatur ipsum sint elit. Aliquip do tempor officia laboris nisi enim anim ex voluptate esse dolore. Occaecat ex ad sunt est deserunt sit.\r\n",
+      "company": {
+        "id": 17,
+        "name": "Toshiba"
+      }
+    }
