@@ -1,6 +1,4 @@
-{
-  "items": [
-    {
+[{
       "id": 0,
       "name": "Model 5",
       "company": {
@@ -79,6 +77,4 @@
         "id": 19,
         "name": "Acer"
       }
-    }
-  ]
-}
+    }]
